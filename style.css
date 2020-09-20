@@ -1,0 +1,89 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+  
+    font-family: 'Poppins', Arial, sans-serif;
+    font-weight: 400;
+	letter-spacing: 0px;
+	font-size: 16px;
+    background-color: #d3c9b2;
+}
+
+a {
+	text-decoration: none;
+}
+
+header,
+footer {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.self-photo {
+    width: 30%;
+}
+
+.round {
+    border-radius: 300px; /* Радиус скругления */
+    border: 3px solid green; 
+    box-shadow: 0 0 7px #666;
+}
+
+section {
+    margin-top: 20px;
+    text-align: center;
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 80px;
+    background-color: #d4c5a0;
+}
+
+.contact-info p:nth-last-child(even) {
+    width: 95%;
+    margin: 0 auto;  
+}
+
+.summary p,
+.education p {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.list {
+    display: flex;
+}
+
+.skills ol,
+.code-examples ul,
+.experience ul {
+    text-align: start;
+    margin: 0 auto;
+}
+
+.code-examples ul{
+    width: 80%;
+}
+
+.code-examples ul li:first-child {
+    background-color: rgb(235, 212, 192);
+}
+
+.contact-with-me {
+    display: flex;
+    justify-content: space-between;
+}
+
+.contact-with-me p {
+    padding-right: 10px;
+}
+
+@media screen and (max-width: 440px) {
+	.contact-with-me {
+        display: block;
+    }
+}
+
