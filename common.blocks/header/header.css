@@ -1,5 +1,5 @@
-@import "__title/header__title.css";
-@import "__subtitle/header__subtitle.css";
+@import url("__title/header__title.css");
+@import url("__subtitle/header__subtitle.css");
 
 .header {
     padding: 120px 0 0 43%;

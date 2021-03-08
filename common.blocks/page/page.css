@@ -1,8 +1,8 @@
-@import "../aside/aside.css";
-@import "../info/info.css";
-@import "../header/header.css";
-@import "../main/main.css";
-@import "../description/description.css";
+@import url("../aside/aside.css");
+@import url("../info/info.css");
+@import url("../header/header.css");
+@import url("../main/main.css");
+@import url("../description/description.css");
 
 .page {
 
