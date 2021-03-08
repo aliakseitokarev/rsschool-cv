@@ -1,4 +1,4 @@
-@import "__photo/aside__photo.css";
+@import url("__photo/aside__photo.css");
 
 .aside {
     float: left;

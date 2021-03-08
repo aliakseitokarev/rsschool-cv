@@ -1,4 +1,4 @@
-@import "_flex/info__item_flex.css";
+@import url("_flex/info__item_flex.css");
 
 .info__item,
 .info__item a {

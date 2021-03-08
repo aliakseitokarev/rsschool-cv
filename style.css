@@ -1,4 +1,4 @@
-@import "common.blocks/page/page.css";
+@import url("common.blocks/page/page.css");
 
 * {
     box-sizing: border-box;
