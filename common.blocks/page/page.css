@@ -12,7 +12,7 @@
 
     margin: 0 auto;
     font-family: 'Barlow', Arial, sans-serif;
-    background: url(/assets/images/Page-background.svg) no-repeat;
+    background: url(../../assets/images/Page-background.svg) no-repeat;
     background-size: 100%;
   }
   

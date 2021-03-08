@@ -9,7 +9,7 @@
     padding: 0 10px 0 0;
 }
 
-.description__info li:first-child {
+.description__info li code {
     background-color: rgb(168, 229, 245);
 }
 
