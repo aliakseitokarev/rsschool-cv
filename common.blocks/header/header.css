@@ -1,0 +1,10 @@
+@import "__title/header__title.css";
+@import "__subtitle/header__subtitle.css";
+
+.header {
+    padding: 120px 0 0 43%;
+    min-height: 420px;
+
+    text-transform: uppercase;
+    line-height: 1;
+}

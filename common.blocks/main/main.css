@@ -1,0 +1,10 @@
+@import "__profile/main__profile.css"; 
+@import "__profile-img/main__profile-img.css";
+@import "__profile-line/main__profile-line.css";
+@import "__title/main__title.css";
+@import "__profile-text/main__profile-text.css";
+
+.main {
+    padding: 42px 0 0 43%;
+
+}

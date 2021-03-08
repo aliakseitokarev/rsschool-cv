@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 42 42" width="42" height="42">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M1165.24 1186.68L-70.68 1186.68L-70.68 -542.46L1165.24 -542.46L1165.24 1186.68Z" />
+		</clipPath>
+		<image width="42" height="42" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACoAAAAqCAYAAADFw8lbAAAEBklEQVRYR82ZS1LbQBCG/5FJVXYwWQfZVA6AOQH2CSAnMJwgeJcd4112mBPEnCDOCTAnwBwgZdmwjmCXBVanWiPZkqzHCCzMVEFRiBo+9ePvhwVyTs+ddgiiJSAcwvOVkntO3t9X+UykXa7cyQ5gXQOimXh+qqQ9qBIo6+4V0ATkEBCXADUAXADYAbAR2BTQ2TWAFoCBkvZp+IbKfWgCHj/bCGwMVLmzEwA/A7gYKP9uk7ALUO3y2i0AdvMdgP2kVTcJGwGdngHiQsfkswJqo/cEGwGdTbQ151LJvcfAwu8G1gdV7uwYwC8AV0raHKf+KQELYH5Qpc6GoKyNHUC0ldxlKy5OEWxQFAYA9ZSsq6o0NgSdECB70mbpWTl5sD13dkTAsHJQ5U4aQI3j80ZJm/Uz9aTB/vj7Z/uf+DDWsW0dKPmZf67kCOXetwC6NrFIAnYE0I4us9W6nd9cLEXe7J8lYPmOWAJWYk4NOlWAOE9LpOwwmHH1YnV4E8jAouVAI1J2B8xbrLlVWTF6b2mLKnfm6sak2uRJvnw0mbpK1vt51ok0LW/m8pBHBB3RLdd4JXfP8kHLhck6QyIUfAJorGT94L2DslDvhw1JdrYvO6wi66/Tmn7W8zflhgD5YwZrKKHmCICA+d5bZXwE1G+aOZtHStptM/ebFYh1WTbajw4BHJkIv/ZAbfSa2s49hoB1yC9C8G6KWsQoaNiTFlo1aiUOh7IhEMhcONXydVw0unmjeHK441700MSq8dj249VoORHR4keALjUkl/D86TYBumj5nKBjzy2PukW0TgCvb2LVnnt/TiBurh8Bqx2Gjsl0mzLXL0S9sAAkQ0DA6hA8Xv3EXjDouLiR4fDiqBx/pOfW909fnsI7imAzVjr3DkD1MluRiMQ5AqQ4QbSsWEcEwVbk6YHHcD77ZWEzQB+aBG+k9XLponzZ8vdVPHJzvKUcLWfxftbcsqmgOlHCzp/jyXzCDOL2GBDsZk6YEeANo8n2EthMUA0brnhoDHhtk4QxFfhysKKdCxpYtg/QN44pwPtqKkMmwMWwC69eFYLGYeOyYgJT9Dd5sMGUywpyYwQaDwO/ivCOlEvuWk4W7FJ3qWsMGsAeEzAQwDaAvpJ2dy2kK+sjGgtgQBB9Ap4E5o1SoBqWF7rEmxHWWQcQp8k10Evhk6O4hrRaXMFKg2rYFc0cAPPeaxOt506/xYuDdRKW2ReBJsoeD4R+uwZgyC47l/ZvU6vqdm+rQyDeEzS0Famf7B9eBboE9vWWv0LgAFqMWdYERKz2E7wm6U9ceNfFG24ugU/CX7bNVZpn1gK6BA67Ke6o/Bg2OWx9BuTqldmtrRU0SqXjeIsTrxF8/BN5LDgJnTJJ+B8bC5b7gR/CywAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="PRINT">
+		<g id="&lt;Clip Group&gt;" clip-path="url(#cp1)">
+			<g id="&lt;Group&gt;">
+				<g id="&lt;Group&gt;">
+					<g id="&lt;Group&gt;">
+						<g id="&lt;Group&gt;">
+							<g id="&lt;Group&gt;">
+								<use id="&lt;Group&gt;" href="#img1" transform="matrix(1,0,0,1,0,0)"/>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

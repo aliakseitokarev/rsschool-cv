@@ -1,0 +1,7 @@
+.description__img {
+    vertical-align: bottom;
+}
+
+.description__img:last-child {
+    vertical-align: middle;
+}
