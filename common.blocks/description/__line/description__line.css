@@ -1,0 +1,8 @@
+.description__line {
+    vertical-align: middle;
+    width: 230px;
+}
+
+.description__line:last-child {
+    width: 320px;
+}

@@ -1,0 +1,9 @@
+.info__title {
+    margin: 0 0 0 80px;
+    font-size: 32px;
+    line-height: 37px;
+    color: #2974e2;
+    font-weight: 600;
+    font-family: "Kanit";
+    text-transform: uppercase;
+}
