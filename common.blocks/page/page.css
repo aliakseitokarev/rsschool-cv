@@ -1,28 +1,3 @@
-@import url("../aside/aside.css");
-@import url("../aside/__photo/aside__photo.css");
-@import url("../info/info.css");
-@import url("../info/__item/info__item.css");
-@import url("../info/__item/_flex/info__item_flex.css");
-@import url("../info/__line/info__line.css");
-@import url("../info/__list/info__list.css");
-@import url("../info/__text/info__text.css");
-@import url("../info/__title/info__title.css");
-@import url("../header/header.css");
-@import url("../header/__subtitle/header__subtitle.css");
-@import url("../header/__title/header__title.css");
-@import url("../main/main.css");
-@import url("../main/__profile-img/main__profile-img.css");
-@import url("../main/__profile-line/main__profile-line.css");
-@import url("../main/__profile-text/main__profile-text.css");
-@import url("../main/__profile/main__profile.css");
-@import url("../main/__title/main__title.css");
-@import url("../description/description.css");
-@import url("../description/__img/description__img.css");
-@import url("../description/__info/description__info.css");
-@import url("../description/__line/description__line.css");
-@import url("../description/__text/description__text.css");
-@import url("../description/__title/description__title.css");
-
 .page {
 
     max-width: 1190px;
