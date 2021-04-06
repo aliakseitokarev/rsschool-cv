@@ -1,0 +1,13 @@
+@import url("__title/info__title.css");
+@import url("__list/info__list.css");
+@import url("__item/info__item.css");
+@import url("__line/info__line.css");
+@import url("__text/info__text.css");
+
+.info {
+    font-size: 28px;
+    color: #ffffff;
+    font-weight: 400;
+    font-family: "Source Sans Pro";
+    padding: 40px 0 0;
+}

@@ -1,0 +1,16 @@
+@import url("_flex/info__item_flex.css");
+
+.info__item,
+.info__item a {
+    margin: 15px 0 0;
+}
+
+.info__item img {
+    vertical-align: middle;
+    margin: 0 5px 0 0;
+    width: 36px;
+}
+
+.info__item a ~ img {
+    width: 16px;
+}

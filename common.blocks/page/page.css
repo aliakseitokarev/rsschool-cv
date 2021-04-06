@@ -1,0 +1,12 @@
+.page {
+
+    max-width: 1190px;
+    min-width: 1024px;
+    height: 1500px;
+
+    margin: 0 auto;
+    font-family: 'Barlow', Arial, sans-serif;
+    background: url(../../assets/images/Page-background.svg) no-repeat;
+    background-size: 100%;
+  }
+  

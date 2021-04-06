@@ -1,0 +1,12 @@
+@import url("__photo/aside__photo.css");
+
+.aside {
+    float: left;
+    width: 38%;
+    min-width: 428px;
+
+    height: 1500px;
+    background-color: #1d2839;
+
+    padding: 0 0 0 36px;
+}
